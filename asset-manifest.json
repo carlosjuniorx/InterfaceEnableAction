@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InterfaceEnableAction/static/css/main.14f9f354.css",
+    "main.js": "/InterfaceEnableAction/static/js/main.f164c59d.js",
+    "index.html": "/InterfaceEnableAction/index.html",
+    "main.14f9f354.css.map": "/InterfaceEnableAction/static/css/main.14f9f354.css.map",
+    "main.f164c59d.js.map": "/InterfaceEnableAction/static/js/main.f164c59d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f9f354.css",
+    "static/js/main.f164c59d.js"
+  ]
+}
